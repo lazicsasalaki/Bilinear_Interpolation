@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bilinear Interpolation", "Bilinear Interpolation.csproj", "{FDD0B84C-E2C1-4A98-837D-69AB0525ADCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDD0B84C-E2C1-4A98-837D-69AB0525ADCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD0B84C-E2C1-4A98-837D-69AB0525ADCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD0B84C-E2C1-4A98-837D-69AB0525ADCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD0B84C-E2C1-4A98-837D-69AB0525ADCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC17AFDF-2252-4755-9634-ACC1CC106C01}
+	EndGlobalSection
+EndGlobal
